@@ -1,0 +1,3 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(D:\Projects\scala\http4s\pomodorotimer\src\main\resources\logback.xml,D:\Projects\scala\http4s\pomodorotimer\target\scala-2.13\classes\logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(D:\Projects\scala\http4s\pomodorotimer\src\main\resources\META-INF\native-image\com\example\pomodorotimer\reflect-config.json,D:\Projects\scala\http4s\pomodorotimer\target\scala-2.13\classes\META-INF\native-image\com\example\pomodorotimer\reflect-config.json)[0m
